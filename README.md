@@ -46,6 +46,6 @@ I'm a third-year student at McGill University with a computer science major. I e
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/justin-xue5/"><img src="https://img.shields.io/badge/Justin%Xue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/justin-xue5/"><img src="https://img.shields.io/badge/-Justin%20Xue-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:justin.xue@mail.mcgill.ca"><img src="https://img.shields.io/badge/justin.xue@mail.mcgill.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
