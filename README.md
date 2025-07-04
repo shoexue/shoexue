@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up! Justin here :)
-I'm a third-year student at the University of Toronto with a computer science specialist and a mathematics major. I enjoy creating dynamic web applications and exploring the vast world of AI, namely how we can leverage LLMs to enhance education.
+I'm a third-year student at McGill University with a computer science major. I enjoy creating dynamic web applications and exploring the vast world of AI.
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
      
@@ -46,7 +46,6 @@ I'm a third-year student at the University of Toronto with a computer science sp
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/alvina-y-1a823922b/"><img src="https://img.shields.io/badge/-Alvina%20Yang-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alvina.yang@mail.utoronto.ca"><img src="https://img.shields.io/badge/-alvina.yang@mail.utoronto.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/alvina.yang"><img src="https://img.shields.io/badge/-alvina_yang-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/justin-xue5/"><img src="https://img.shields.io/badge/Justin%Xue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:justin.xue@mail.mcgill.ca"><img src="https://img.shields.io/badge/justin.xue@mail.mcgill.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
